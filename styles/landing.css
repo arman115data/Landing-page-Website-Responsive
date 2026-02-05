@@ -76,15 +76,22 @@
 .navbar, .banner{
     max-width: 1440px;
     margin: 0 auto;
+    
 }
+
+
 
 
 /* banner related style */
 .banner-content{
+    border: 1px solid black ;
     max-width: 850px;
     margin: 0 auto;
     text-align: center;
-    margin:50px ;
+    
+    
+    
+    /* justify-content: center; */
 }
 
 .banner-title{
@@ -94,6 +101,7 @@
 
 .banner-image{
     width: 100%;
+    margin-top: 30px;
 }
 
 /* responsive media query */

@@ -48,6 +48,11 @@
     
 }
 
+.btn-primary:hover{
+    background-color: aquamarine;
+}
+
+
 main{
     max-width: 1440px;
     margin: 0 auto;
